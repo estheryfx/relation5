@@ -1,7 +1,7 @@
 best_f1 0.43301
 
 程序说明
-1，wwm_uncased_L-24_H-1024_A-16.zip 是bert的预训练模型，执行程序需要依赖它
+1，uncased_L-24_H-1024_A-16.zip 是bert的预训练模型，执行程序需要依赖它
 2，best_model.weights 是训练好的模型 task_relation_test1.py预测时会用到
 3，task_relation_extraction.py 训练代码
 4，task_relation_test1.py 跑decoded1.txt数据的代码

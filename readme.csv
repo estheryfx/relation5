@@ -8,3 +8,4 @@ Summary
 5，decoded1.txt -- decoded.txt after tidy
 6，data -- training data
 7，wiki80.ipynb -- jupyter, for data processing
+6，dev_pred.json -- result

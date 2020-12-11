@@ -18,9 +18,9 @@ maxlen = 128
 batch_size = 16
 
 path = "data/"
-config_path = path+'wwm_uncased_L-24_H-1024_A-16/bert_config.json'
-checkpoint_path = path+'wwm_uncased_L-24_H-1024_A-16/bert_model.ckpt'
-dict_path = path+'wwm_uncased_L-24_H-1024_A-16/vocab.txt'
+config_path = path+'uncased_L-24_H-1024_A-16/bert_config.json'
+checkpoint_path = path+'uncased_L-24_H-1024_A-16/bert_model.ckpt'
+dict_path = path+'uncased_L-24_H-1024_A-16/vocab.txt'
 
 
 def load_data(filename):
